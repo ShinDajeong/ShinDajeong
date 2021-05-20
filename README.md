@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/chart?username=ShinDajeong)
+![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/chart?username=ShinDajeong&size=250)
 
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/badge?username=ShinDajeong)
 
