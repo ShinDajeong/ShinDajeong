@@ -30,13 +30,12 @@
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/fit?username=JoChoSunghoon&theme=merko&badge_theme=forest)
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/fit?username=clalsw&theme=highcontrast&badge_theme=sunset)
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/fit?username=clalsw&theme=dracula&badge_theme=dark)
-
 <br>
 
 ## [Health Calendar]
-
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/calendar?username=ShinDajeong)
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/calendar?username=pyoki32&theme=grape)
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/calendar?username=real100woong&theme=sky)
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/calendar?username=JoChoSunghoon&theme=orange)
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/calendar?username=clalsw&theme=grass)
+![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/calendar?username=clalsw&theme=green)
