@@ -14,7 +14,7 @@
 
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/badge?username=ShinDajeong&size=2.5)
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/badge?username=pyoki32&size=2.5&theme=pink)
-![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/badge?username=JoChoSunghoon&size=2.5&theme=sky)
+![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/badge?username=real100woong&size=2.5&theme=sky)
 
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/badge?username=real100woong&size=2.5&theme=forest)
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/badge?username=pyoki32&size=2.5&theme=sunset)
