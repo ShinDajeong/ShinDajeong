@@ -26,7 +26,7 @@
 
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/fit?username=ShinDajeong)
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/fit?username=pyoki32&theme=dark&badge_theme=pink)
-![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/fit?username=real100woong&theme=radical)
+![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/fit?username=pyoki32&theme=radical)
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/fit?username=pyoki32&theme=merko&badge_theme=forest)
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/fit?username=real100woong&theme=highcontrast&badge_theme=sunset)
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/fit?username=real100woong&theme=dracula&badge_theme=dark)
