@@ -1,4 +1,4 @@
-## [Chart Card]
+<!-- ## [Chart Card]
 
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/chart?username=ShinDajeong&size=250&theme=defaultTheme)
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/chart?username=pyoki32&size=250&theme=forest)
@@ -38,7 +38,7 @@
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/calendar?username=real100woong&theme=sky)
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/calendar?username=JoChoSunghoon&theme=orange)
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/calendar?username=clalsw&theme=grass)
-![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/calendar?username=clalsw&theme=green)
+![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/calendar?username=clalsw&theme=green) -->
 
 
 
